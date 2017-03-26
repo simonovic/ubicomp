@@ -2,10 +2,10 @@
 
 This project is build from three parts - Android app, server app and Arduino Uno platform, that work togehter to collect and monitor the data for air quality in our enviroment.
 
-
+## Arduino Uno
 **Arduino Uno** board is equiped with Bluetooth module, MQ-2 gas sensor and DHT11 temperature and humidity sensor. Arduino collects data from sensors and sends them via bluetooth connection to Android app. It can be controlled from Android app to collect and send sensor data periodically or manually, or to stop with this process.
 
-
+## Android app
 **Android app** is divided in two parts. First part is collecting data from Arduino and periodically sending them to server. The second part is presentation of collected sensor data.
 
 Data collection:
@@ -14,5 +14,5 @@ Data presentation:
 Main application screen contains map, chart and details tabs. Presentation on map with markers shows temperature, humidity and air quality. Charts tab shows all data gathered from Arduino as bar chart and details tab present last gathered result and maximum result by temperature for selected date.
 Side menu is used for filtering data by temperature, humidity, air quality and/or radius from current position.
 
-
+## Server app
 **Server app** is written using Node.js framework. It implements RESTful api for inserting, getting and filtering data stored in MySQL database.
