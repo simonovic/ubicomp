@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/simon/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.2/a60c039ba54c73d1133b72178e1b04133c73d13d/adapter-rxjava-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.2_30d06ae16298f7d38567014d7ea132b192f98904/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.android/build-cache/bc6077e169d71e5906a504551c292802390eed31/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32cc37d1b165d7759e93ccf605e82b2498eb1f75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.android/build-cache/c995984c526a781c8a10f26df43625cee0d50bb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29a977550be07e345f85c283bad120c60a05e523/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.android/build-cache/b635da14dc9e0a87ff7f9c73086576b4ef8cc2a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eeb866523e4ebae4235de169bb07bca5841f0223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_51862da7e07d2318de9505a2f58def18aa961eb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.0/ff93baa2e2e6ca507fc6ec731f61751dd0d865e7/MPAndroidChart-v3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff93baa2e2e6ca507fc6ec731f61751dd0d865e7">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v3.0.0_b9c9afba7dbbf02337f836be6d1d46df4a4bf8cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.4.0_1d616039d5e03ee1dbfe8cafb7682446a0b5e7d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.android/build-cache/220f50d7bd58e7977a0907ac62c22eaec95aaf29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d507a1fca9cf5f001a9bdc14561a55683b8caa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.0.1/1d232df84491c0453e077002509911301109409d/logging-interceptor-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d232df84491c0453e077002509911301109409d">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.0.1_2b724818f66e8feae384662293f55040922c65fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_5f4355c2492d99fd83a235035cf52c8e16216875/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abf7133ba7ab7140808e46c582fdac2533ea3e50">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e325b1129dae91608f0e8c516bfb83b5349fe1b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.4/3cc424c6eda381bf4aee40dc3ccdecc27b2106aa/rxjava-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3cc424c6eda381bf4aee40dc3ccdecc27b2106aa">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.4_bc5217c53387c9a15fccc77bc9a43d5d74375222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.android/build-cache/4db84ae025ea5f540ee1e34d4b41680a26970278/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa5b2419593ae807d673e84003f23ec281ecf380/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_62aef07d769584b377be1ee4fbd248249dce3c96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.android/build-cache/597b3414b04fc9c38b12973cff7bc3ea68ea7dce/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_047b15193c22529c8991e376e8979cb51226273d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_2698c6d3801c1c25c5511d025d8dce3b49df6f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_303a5a7675c79ea563c79e79a7418b3a19d8adec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.android/build-cache/e4651d8471b6525476ccacd756c0055fbe79fa69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1164c369578b7380086abc4538bb67b0fd495ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.android/build-cache/0bd73e7cd4458db62b590fc01837ca44c9661b91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e336d1b9de2b98e2ccb7c2595e7f1a0f81526f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_1a9217b33ea5c61c8c5b76d0caf89ea81668e3ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.android/build-cache/597b3414b04fc9c38b12973cff7bc3ea68ea7dce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2972949287ea27e3bffa1783e3174cabfc52531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.android/build-cache/8fdd09deb05a44a892cf9adff882714113d4faa0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5807156cd2e41d39f5f177fdbde52b61ac1e98b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.android/build-cache/eb193e08a59d5a35c5fb2d9009abfa3cb1cbea85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fb315f6b947e55f4b3af19e6ecc8ce6e7470648/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/simon/Simon/Fakultet/Razno/Master ispiti/Sveprisutno racunarstvo/Projekat/ubicomp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_f36a02cb65739bbdcaa4ab29814dfcd28c8b570e/classes.dex" />
+    </item>
+
+</items>

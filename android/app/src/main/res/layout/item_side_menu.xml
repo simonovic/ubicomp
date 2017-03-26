@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp">
+
+        <TextView
+            android:id="@+id/txtFilterType"
+            android:text="@string/side_menu_temperature"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="16sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/editFilterFrom"
+                android:layout_width="0dp"
+                android:layout_weight="0.5"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:hint="@string/side_menu_from"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/editFilterTo"
+                android:layout_width="0dp"
+                android:layout_weight="0.5"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:hint="@string/side_menu_to"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/light_gray" />
+
+</LinearLayout>
