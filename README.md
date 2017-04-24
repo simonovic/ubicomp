@@ -1,6 +1,6 @@
 # Ubicomp project - Monitoring Air Quality on the Move
 
-This project is build from three parts - Android app, server app and Arduino Uno platform, that work togehter to collect and monitor the data for air quality in our enviroment.
+This project is build from three parts - Android app, server app and Arduino Uno platform, that work together to collect and monitor the data for air quality in our enviroment.
 
 ## Arduino Uno
 **Arduino Uno** board is equiped with Bluetooth module, MQ-2 gas sensor and DHT11 temperature and humidity sensor. Arduino collects data from sensors and sends them via bluetooth connection to Android app. It can be controlled from Android app to collect and send sensor data periodically or manually, or to stop with this process.
